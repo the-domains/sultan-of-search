@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sultan Of Search]]></title>
         <description><![CDATA[Sultan Of Search]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sultan-of-search/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 17:08:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 17:20:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sultan-of-search/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[All Eyes On You. ]]></title>
-            <description><![CDATA[<article><h1>All Eyes On You. </h1><p>You aren't going to get them to put it down so why not be there when they pick it up?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8da7a38-0383-4098-ac54-29ab771850e4.jpg"></article>]]></description>
-            <link>undefinedall-eyes-on-you/index.html</link>
+            <title><![CDATA[All Eyes On You. ]]></title>
+            <description><![CDATA[<article><h1>All Eyes On You. </h1><p>You aren't going to get them to put it down so why not be there when they pick it up?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8da7a38-0383-4098-ac54-29ab771850e4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sultan-of-search/all-eyes-on-you/index.html</link>
             <guid isPermaLink="false">821ff385-f3a5-40d2-b265-bf23e7ebb88f</guid>
-            <pubDate>Tue, 19 Apr 2016 17:08:47 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 17:20:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
