@@ -1,7 +1,7 @@
 name: Sultan Of Search
 favicon: null
-layout_spectrum: 0.9336852787528187
-typography_spectrum: 0.28691307874396443
+layout_spectrum: 1
+typography_spectrum: 0.72871
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.26240415521897376
-  lightness: 0.9731003444176167
-  saturation: 0.0427344327326864
-  rhythmicContrast: 0.5924239126034081
+    - '#9e0b0f'
+    - '#ffffff'
+    - '#e3d3d4'
+    - '#c38788'
+    - '#b45859'
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
